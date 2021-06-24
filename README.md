@@ -4,16 +4,16 @@ This repo contains my code for the course CSC 225: Algorithms and Data Structure
 Note: the following files were written by my instructor Bill Bird and not modified by me: 
 
 Assignment 1
-Point2d.java
-HullViewer225.java
-PrintHull.java
-TestContainment.java  
+- Point2d.java
+- HullViewer225.java
+- PrintHull.java
+- TestContainment.java  
 
 Assignment 2
-HuffFileException.java
-HuffFileReader.java
-HuffFileWriter.java
+- HuffFileException.java
+- HuffFileReader.java
+- HuffFileWriter.java
 
 Assignment 3
-ImageViewer225.java
-PixelWriter.java
+- ImageViewer225.java
+- PixelWriter.java
